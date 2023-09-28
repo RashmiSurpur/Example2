@@ -15,7 +15,7 @@ namespace Example2.Controllers
 
         public IActionResult Index()
         {
-            return Content("This is Original repository");
+            return Content("This is Cloned repository");
         }
 
         public IActionResult Privacy()
